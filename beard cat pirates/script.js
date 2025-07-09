@@ -2,7 +2,7 @@
 
 const siteData = {
     title: "胡子猫导航站",
-    subtitle: "我将跨越那七大洋与，你相见...",
+    subtitle: "我将跨越那七大洋，与你相见...",
     background: "https://i0.hdslb.com/bfs/article/72048afa5c619a80831b941c9ea0d8813a2bf230.png",
     
     //姑且是内容设置
@@ -112,7 +112,7 @@ const siteData = {
     music: {
         title: "Golden Hours",
         artist: "岩井映美里",
-        url: "http://m801.music.126.net/20250709065134/07514f663d3dc418c2ddda700cbc35b0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45893423058/6593/e0da/475a/c090ace6683ca85ed34be1097a34a35a.mp3?vuutv=DkoUjOula2HRYbe4aJxDurPUmEE78JsEnqvy7oC3a2SB2VzTHV4ejfIH527ZfSpGIeVuktKIXH5yfNW8KK+Se3V2FmXLDW5lXopsySqGb4M=",
+        url: "music//Golden Hours.mp3",
         cover: "http://p2.music.126.net/uUFj5363LsQsg8nOB0lzlg==/109951170197535189.jpg?param=100x100"
     }
 };
